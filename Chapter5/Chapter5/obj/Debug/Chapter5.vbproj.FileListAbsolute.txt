@@ -1,0 +1,9 @@
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\bin\Debug\Chapter5.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\bin\Debug\Chapter5.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\bin\Debug\Chapter5.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\Chapter5.Resources.resources
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\Chapter5.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\Chapter5.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\Chapter5.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter5\Chapter5\obj\Debug\Chapter5.pdb

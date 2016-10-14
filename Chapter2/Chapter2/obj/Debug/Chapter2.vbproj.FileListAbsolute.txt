@@ -1,0 +1,9 @@
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\bin\Debug\Chapter2.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\Chapter2.Resources.resources
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\Chapter2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\Chapter2.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

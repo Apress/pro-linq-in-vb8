@@ -1,0 +1,9 @@
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\Chapter15.Resources.resources
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\Chapter15.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\bin\Debug\Chapter15.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\bin\Debug\Chapter15.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\bin\Debug\Chapter15.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\Chapter15.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\Chapter15.xml
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\Pro LINQ VB\Chapter15\Chapter15\obj\Debug\Chapter15.pdb

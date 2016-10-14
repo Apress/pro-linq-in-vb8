@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookParticipants>
+  <BookParticipant type="Author">
+    <FirstName>Dennis</FirstName>
+    <LastName>Hayes</LastName>
+  </BookParticipant>
+  <BookParticipant type="Editor">
+    <FirstName>Ewan</FirstName>
+    <LastName>Buckingham</LastName>
+  </BookParticipant>
+</BookParticipants>

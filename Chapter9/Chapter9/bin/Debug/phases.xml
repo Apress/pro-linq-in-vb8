@@ -1,0 +1,50 @@
+      <Phases>
+        <Phase Id="22" Name="LowerLevelInteriorWalls">
+          <Tab0 Name="Stair Framing">
+            <Item Id="1" Text="Stair Height to Floor Below" UOM="Feet"/>
+          </Tab0>
+          <Tab1 Name="Interior Walls">
+            <Item Id="1" Text="Number of Rooms" UOM="Ea"/>
+            <Item Id="2" Text="Lin Ft of Interior Wall" UOM="Feet"/>
+            <Item Id="3" Text="Length of Plumbing Walls" UOM="Feet"/>
+          </Tab1>
+          <Tab2 Name="Ceiling Joists">
+            <Item Id="1" Text="Ceiling Joists #1 Length" UOM="Feet"/>
+            <Item Id="2" Text="Ceiling Joists #1 Quantity" UOM="Ea"/>
+            <Item Id="3" Text="Ceiling Joists #1 StrongBack Width" UOM="Feet"/>
+          </Tab2>
+        </Phase>
+        <Phase Id="25" Name="First Floor Exterior Wall Framing">
+          <Tab Id="0" Name="Wall">
+            <Item Id="1" Text="First Floor Perimeter" UOM="Feet" Precision="Fraction16s" DefaultValue="12"/>
+            <Item Id="2" Text="First Floor Inside Corners" UOM="Ea"/>
+            <Item Id="3" Text="First Floor Outside Corners" UOM="Unit"/>
+            <Item Id="4" Text="First Floor Windows" UOM="Ea"/>
+            <Item Id="5" Text="First Floor Ext Doors" UOM="Tally" Precision="NextEvenFoot"/>
+          </Tab>
+          <Tab Id="1" Name="Headers">
+            <Item Id="1" Text="First Floor Wall Window Count" UOM="Ea"/>
+            <Item Id="2" Text="First Floor Wall Ext Door Count" UOM="SqFt"/>
+          </Tab>
+          <Tab Id="2" Name="Sheathing">
+            <Item Id="1" Text="First Floor Wall Area" UOM="SqFt"/>
+            <Item Id="2" Text="First Floor Outside Corners" UOM="Ea"/>
+            <Item Id="3" Text="Window/Door Flashing Lin Ft" UOM="Tally"/>
+          </Tab>
+          <Tab Id="3" Name="Extras">
+            <Item Id="1" Text="First Floor Wall Area" UOM="SqFt"/>
+            <Item Id="2" Text="First Floor Outside Corners" UOM="Ea"/>
+            <Item Id="3" Text="Hold Down o/c" UOM="Feet"/>
+            <Item Id="4" Text="First Floor Wall Perimeter" UOM="Feet"/>
+          </Tab>
+        </Phase>
+        <Phase Id="59" Name="Test Window">
+          <Tab Id="0" Name="Wall">
+            <Item Id="1" Text="Lower Level Perimeter" UOM="Feet" Precision="Fraction16s"/>
+            <Item Id="2" Text="Lower Level Inside Corners" UOM="Ea"/>
+            <Item Id="3" Text="Lower Level Outside Corners" UOM="Ea"/>
+            <Item Id="4" Text="Lower Level Windows" UOM="Ea"/>
+            <Item Id="5" Text="Lower Level Ext Doors" UOM="Ea"/>
+          </Tab>
+        </Phase>
+      </Phases>

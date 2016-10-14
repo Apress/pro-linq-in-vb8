@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database Name="Northwind"
+  xmlns="http://schemas.microsoft.com/linqtosql/mapping/2007">
+  <Table Name="dbo.Customers" Member="Customers">
+  <Type Name="Chapter16.Linqdev.Customer">
+    <Column Name="CustomerID" Member="CustomerID" Storage="_CustomerID"
+    DbType="NChar(5) NOT NULL" CanBeNull="false" IsPrimaryKey="true" />
+    <Column Name="CompanyName" Member="CompanyName" Storage="_CompanyName"
+    DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+    <Column Name="ContactName" Member="ContactName" Storage="_ContactName"
+    DbType="NVarChar(30)" />
+    <Column Name="ContactTitle" Member="ContactTitle" Storage="_ContactTitle"
+    DbType="NVarChar(30)" />
+    <Column Name="Address" Member="Address" Storage="_Address"
+    DbType="NVarChar(60)" />
+    <Column Name="City" Member="City" Storage="_City" DbType="NVarChar(15)" />
+    <Column Name="Region" Member="Region" Storage="_Region"
+    DbType="NVarChar(15)" />
+    <Column Name="PostalCode" Member="PostalCode" Storage="_PostalCode"
+    DbType="NVarChar(10)" />
+    <Column Name="Country" Member="Country" Storage="_Country"
+    DbType="NVarChar(15)" />
+    <Column Name="Phone" Member="Phone" Storage="_Phone" DbType="NVarChar(24)" />
+    <Column Name="Fax" Member="Fax" Storage="_Fax" DbType="NVarChar(24)" />
+  </Type>
+  </Table>
+</Database>
